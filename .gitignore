@@ -1,0 +1,3 @@
+# nix-darwin build
+result/
+.direnv
