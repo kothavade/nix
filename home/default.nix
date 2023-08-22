@@ -13,6 +13,7 @@
     fd
     bat
     delta
+    gh
     github-copilot-cli
   ];
   imports = [

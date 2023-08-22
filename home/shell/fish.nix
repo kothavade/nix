@@ -22,7 +22,7 @@
       }
       {
         name = "github-copilot-cli-fish";
-        src = github-copilot-cli-fish;
+        src = github-copilot-cli-fish.src;
       }
     ];
   };
