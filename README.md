@@ -1,3 +1,3 @@
-# nix darwin configuration
+# Nix Configuration
 
-the system configuration of my macbook pro m1. will eventually make this work on nixos too.
+This repo contains my Nix configuration for my Macbook and Linux desktop. It uses the modern nix-flakes approach, and uses home-manager to configure user-space applications.
