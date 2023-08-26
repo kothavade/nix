@@ -98,6 +98,7 @@
       "[html]" = {
         "editor.defaultFormatter" = "esbenp.prettier-vscode";
       };
+      "redhat.telemetry.enabled" = false;
     };
   };
 }

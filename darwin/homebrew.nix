@@ -17,6 +17,7 @@
       "itsycal"
       "tailscale"
       "ukelele"
+      "lulu"
 
       "firefox"
       "brave-browser"
@@ -32,6 +33,8 @@
 
       "prismlauncher"
 
+      "eclipse-java"
+
       "font-sf-mono-nerd-font-ligaturized"
       "font-sf-pro"
       "font-sf-mono"
@@ -39,6 +42,8 @@
     ];
     masApps = {
       "wireguard" = 1451685025;
+      "sigma planner" = 1106938042;
+      "good notes" = 1444383602;
     };
   };
 }
