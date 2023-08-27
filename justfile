@@ -1,5 +1,5 @@
 build:
-    ./result/sw/bin/darwin-rebuild switch --flake .
+    darwin-rebuild switch --flake .
 
 update:
     nix flake update

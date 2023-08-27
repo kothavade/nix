@@ -18,7 +18,8 @@
   ];
   imports = [
     ./shell
-    ./nvim
+    ./nvim.nix
+    ./helix.nix
     ./kitty.nix
     ./vscode.nix
     ./git.nix
